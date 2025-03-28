@@ -57,6 +57,17 @@ button {
     border-radius: 10px;
 }
 .links {
-    align-items: center;
     text-align: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+@media (max-width: 470px) {
+    .links>a{
+        margin: 5px;
+    }
+}
+.intro {
+    margin: 10px;
 }
