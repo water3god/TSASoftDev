@@ -49,3 +49,14 @@ button {
 #description {
     margin: 10px;
 }
+.links > a {
+    margin: 50px;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.links {
+    align-items: center;
+    text-align: center;
+}
