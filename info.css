@@ -31,6 +31,19 @@ li {
     color: white;
     margin: 20px;
     padding: 20px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    stroke: black;
+    stroke-width: 10px;
+    padding: 10px;
+    font-size: 20px;
 }
 
 #description {
