@@ -57,6 +57,11 @@ button {
     border-radius: 10px;
 }
 .links {
-    align-items: center;
     text-align: center;
+}
+
+@media (max-width: 470px) {
+    .links>a{
+        margin: 0px;
+    }
 }
