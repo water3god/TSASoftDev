@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+
 body {
-    background-color:lightgreen; 
+    background-image: url(Images/360_F_270252931_bHV05iyLL4pZTnzH5S78Pc8dMpXh1mMS.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mainbody {
+   background-color: lightblue;
+   padding: 5px 20px 20px 20px;
+   border-radius: 4px;
+   border-style: solid;
+}
+
+body {
+    background-color:lightblue; 
     font-family: "Rowdies", sans-serif;
 
 }
